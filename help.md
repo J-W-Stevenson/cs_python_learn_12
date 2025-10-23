@@ -7,6 +7,8 @@ Embarking on your Python journey? Here's a curated list of interactive platforms
 ## 🔍 Interactive Visual Tools
 
 - <a href="https://visualgo.net/en" target="_blank" rel="noopener noreferrer">Visualgo</a>
+- <a href="https://algorithm-visualizer.org/" target="_blank" rel="noopener noreferrer">algorithm-visualizer</a>
+- <a href="https://visualizedsa.com/visualizers" target="_blank" rel="noopener noreferrer">visualizedsa</a>
   - An interactive platform for visualizing data structures and algorithms. Great for understanding how Python code operates behind the scenes.
 
 - <a href="https://pythontutor.com/render.html#mode=display" target="_blank" rel="noopener noreferrer">Python Tutor</a>
