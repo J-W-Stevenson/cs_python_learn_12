@@ -653,3 +653,27 @@ SELECT *
 FROM table_name1 t1, table_name2 t2
 WHERE t1.column_name = t2.column_name;
 ```
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+| **Operation**     | **Database**               | **Table**                                                            | **Column**                                                |
+| ----------------- | -------------------------- | -------------------------------------------------------------------- | --------------------------------------------------------- |
+| **Create**        | `CREATE DATABASE db_name;` | `CREATE TABLE table_name (column1 datatype, column2 datatype, ...);` | `ALTER TABLE table_name ADD column_name datatype;`        |
+| **List / Show**   | `SHOW DATABASES;`          | `SHOW TABLES;`                                                       | `DESCRIBE table_name;` or `SHOW COLUMNS FROM table_name;` |
+| **Access / Read** | `USE db_name;`             | `SELECT * FROM table_name;`                                          | `SELECT column_name FROM table_name;`                     |
+| **Update**        | N/A                        | `ALTER TABLE table_name ...` (rename table or modify structure)      | `ALTER TABLE table_name MODIFY column_name new_datatype;` |
+| **Delete**        | `DROP DATABASE db_name;`   | `DROP TABLE table_name;`                                             | `ALTER TABLE table_name DROP COLUMN column_name;`         |
