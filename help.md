@@ -4,6 +4,11 @@ Embarking on your Python journey? Here's a curated list of interactive platforms
 
 ---
 
+## Online IDE
+- <a href="https://pythonwebcompiler.com/" target="_blank" rel="noopener noreferrer">Python Web Compiler</a>
+- <a href="https://www.mycompiler.io/new/python" target="_blank" rel="noopener noreferrer">My Compiler</a>
+- <a href="https://cliprun.com/" target="_blank" rel="noopener noreferrer">Clip run</a>
+
 ## 🔍 Interactive Visual Tools
 
 - <a href="https://visualgo.net/en" target="_blank" rel="noopener noreferrer">Visualgo</a>
